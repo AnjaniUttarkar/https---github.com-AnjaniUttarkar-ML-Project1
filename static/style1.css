@@ -1,0 +1,13 @@
+body{
+    background-image: url('/static/456236.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+      }
+      h1{
+        color:antiquewhite;
+          font-size: 50px;
+      }
+      label{
+        color:rgb(235, 240, 235);
+        font-size: 24px;
+      }

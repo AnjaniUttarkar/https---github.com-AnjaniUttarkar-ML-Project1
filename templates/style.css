@@ -1,0 +1,19 @@
+body {
+    background-image: url('bg.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+      }
+h1{
+          color:rgb(207, 180, 144);
+      }
+      label{
+        color:rgb(235, 240, 235);
+        font-size: 24px;
+      }
+  
+button:hover{
+        color:black;
+        background-color: #068428;
+        font-size: 24px;
+        border-radius: 12px;
+      }
