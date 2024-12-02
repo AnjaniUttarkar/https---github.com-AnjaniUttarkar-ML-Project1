@@ -1,0 +1,1 @@
+Tp run the application run app.py and follow the link, the app opens on http://127.0.0.1:5000/
